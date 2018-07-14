@@ -1,2 +1,2 @@
 # jhseo1107
-about myself
+[질문하기 / ASK](https://github.com/jhseo1107/jhseo1107/issues/new)
