@@ -8,5 +8,6 @@
 나이 : 2018년 기준 13세  
 경력 :   
 - 2018년 [한국정보올림피아드](https://www.digitalculture.or.kr/koi/KoiMain.do) 지역예선 서울지역 金  
+
 지역 : 대한민국 서울시  
 관심사 : [마인크래프트](www.minecraft.net), C++, Java  
