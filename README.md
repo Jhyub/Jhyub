@@ -16,4 +16,10 @@
 [프로그램을 모른 채 만든 매우매우 비효율적인 BOJ 스런 KOI 정답 포트폴리오일겁니다 아마](https://github.com/jhseo1107/KOI_Answer_Portfolio)  
 [그나마 조금 효율적인 것입니다 그런데 JPanel 쓰면 끝남 ;;](https://github.com/OlliStudio/S-DOHyUNG-Java)  
 [이거는 현실성이 없는](https://github.com/OlliStudio/EasyLang) [두가지 프로젝트일거임](https://github.com/broadcastlang/broadcastlang)  
-[YEE](https://github.com/jhseo1107/yee-bot)
+[YEE](https://github.com/jhseo1107/yee-bot)  
+[포크질 에에에에](https://github.com/jhseo1107/jhseo1107.github.io)
+# 둘러보기
+계정만 있는 사이트는 ~~취소선 처리~~  
+[BOJ](https://acmicpc.net/user/jhseo1107)  
+[Github](https://github.com/jhseo1107)  
+~~[TopCoder](https://www.topcoder.com/members/jhseo1107/)~~
