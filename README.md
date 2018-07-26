@@ -17,7 +17,8 @@
 [그나마 조금 효율적인 것입니다 그런데 JPanel 쓰면 끝남 ;;](https://github.com/OlliStudio/S-DOHyUNG-Java)  
 [이거는 현실성이 없는](https://github.com/OlliStudio/EasyLang) [두가지 프로젝트일거임](https://github.com/broadcastlang/broadcastlang)  
 [YEE](https://github.com/jhseo1107/yee-bot)  
-[포크질 에에에에](https://github.com/jhseo1107/jhseo1107.github.io)
+[포크질 에에에에](https://github.com/jhseo1107/jhseo1107.github.io)  
+[수학 시러](https://github.com/OlliStudio/complex-number)
 # 둘러보기
 계정만 있는 사이트는 ~~취소선 처리~~  
 [BOJ](https://acmicpc.net/user/jhseo1107)  
