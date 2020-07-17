@@ -1,7 +1,7 @@
 # jhseo1107
 Seoul  
 Java, C  
-NetImpcat Korea  
+NetImpact Korea  
 [Website](https://jhseo1107.kro.kr)
   
 - 2018 KOI Seoul 金  
