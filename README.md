@@ -1,6 +1,7 @@
 # jhseo1107
 Seoul  
 Java, C  
+Yangjin Middle School  
 NetImpact Korea  
 [Website](https://jhseo1107.kro.kr)
   
