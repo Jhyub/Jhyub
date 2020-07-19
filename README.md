@@ -16,11 +16,11 @@ NetImpact Korea
 
 # Repos
 ## Project
-[Project: Soonja](https://github.com/JunctionXAsia2020-NetImpactTeam/ProjectSoonja)
+[Project: Soonja](https://github.com/JunctionXAsia2020-NetImpactTeam/ProjectSoonja)  
 [EncryptBuilder1107](https://github.com/jhseo1107/EncryptBuilder1107)
 ## Toy Project
-[AtUR](https://github.com/jhseo1107/AtUR)
-[YangjinMS](https://github.com/jhseo1107/YangjinMS)
+[AtUR](https://github.com/jhseo1107/AtUR)  
+[YangjinMSBot](https://github.com/jhseo1107/YangjinMSBot)
 
 # Accounts
 [BOJ](https://acmicpc.net/user/jhseo1107)  
