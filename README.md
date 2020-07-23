@@ -1,6 +1,6 @@
 # jhseo1107
 Seoul  
-Java, C  
+Java, Kotlin, C  
 Yangjin Middle School  
 NetImpact Korea  
 [Website](https://jhseo1107.kro.kr)
