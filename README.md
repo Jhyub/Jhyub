@@ -14,13 +14,6 @@ NetImpact Korea
 - 2020 Github Archive Program (Arctic Code Vault)  
 
 
-# Repos
-## Project
-## Toy Project
-- [AtUR](https://github.com/jhseo1107/AtUR)  
-- [YangjinMSBot](https://github.com/jhseo1107/YangjinMSBot)
-- [EncryptBuilder1107](https://github.com/jhseo1107/EncryptBuilder1107)
-
 # Accounts
 - [BOJ](https://acmicpc.net/user/jhseo1107)  
 - [Github](https://github.com/jhseo1107)  
