@@ -1,6 +1,5 @@
 # jhseo1107
 Seoul  
-Java, Kotlin, C  
 Yangjin Middle School  
 NetImpact Korea  
 [Website](https://jhseo1107.kro.kr)
@@ -12,6 +11,10 @@ NetImpact Korea
 - 2019 RSC
 - JunctionXAsia 2020
 - 2020 Github Archive Program (Arctic Code Vault)  
+
+# Languages
+C, Java, Kotlin  
+Learning.. Ruby
 
 
 # Accounts
