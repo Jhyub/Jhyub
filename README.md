@@ -1,7 +1,7 @@
 # jhseo1107
 Seoul  
 Yangjin Middle School  
-NetImpact Korea  
+Net Impact Seoul  
 [Website](https://jhseo1107.kro.kr)
   
 - 2018 KOI Seoul 金  
