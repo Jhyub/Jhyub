@@ -1,5 +1,5 @@
 # jhseo1107
-Middle school student learning at Yangjin Middle School in Seoul!  
+Middle school student learning at Yangjin Middle School in Seoul  
 Member of Net Impact Seoul  
 [Visit my website!](https://jhseo1107.kro.kr)
 
