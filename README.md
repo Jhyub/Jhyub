@@ -3,12 +3,14 @@ Middle school student learning at Yangjin Middle School in Seoul
 Member of Net Impact Seoul  
 [Visit my website!](https://jhseo1107.kro.kr)
 
+[![](https://github-readme-stats.vercel.app/api?username=jhseo1107&show_icons=true&hide_border=true)](https://github.com/jhseo1107)
+
 # Main Projects
 - [Uptune](http://uptune.kro.kr/)
 - [Ulleung](http://울릉.메인.한국/)
 
 # Languages
-<a href="https://sourcerer.io/jhseo1107"><img src="https://img.shields.io/badge/Java-181%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/jhseo1107"><img src="https://img.shields.io/badge/Kotlin-56%20commits-green.svg" alt=""></a>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhseo1107&hide_border=true)](https://github.com/jhseo1107)
 
 
 # Accounts
