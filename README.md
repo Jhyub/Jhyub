@@ -8,7 +8,13 @@ Member of Net Impact Seoul
 - [Ulleung](http://울릉.메인.한국/)
 
 # Languages
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhseo1107&hide_border=true)](https://github.com/jhseo1107)
+Console (mostly java wrappers) : Go  
+Web : Ruby (Rails)  
+Everything Else : Kotlin (Java)  
+  
+<a href="https://sourcerer.io/jhseo1107"><img src="https://img.shields.io/badge/Java-273%20commits-orange.svg" alt=""></a>  
+<a href="https://sourcerer.io/jhseo1107"><img src="https://img.shields.io/badge/Kotlin-119%20commits-green.svg" alt=""></a>  
+<a href="https://sourcerer.io/jhseo1107"><img src="https://img.shields.io/badge/Go-3%20commits-blue.svg" alt=""></a>  
 
 
 # Accounts
