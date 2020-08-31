@@ -4,7 +4,6 @@ Member of Net Impact Seoul
 [Visit my website!](https://jhseo1107.kro.kr)
 
 # Main Projects
-- [Uptune](http://uptune.kro.kr/)
 - [Ulleung](http://울릉.메인.한국/)
 
 # Languages
