@@ -1,6 +1,7 @@
 # jhseo1107
 Middle school student learning at Yangjin Middle School in Seoul  
 Member of Net Impact Seoul  
+Creator of the Ulleung Programming Language  
 [Visit my website!](https://jhseo1107.kro.kr)
 
 # Main Projects
