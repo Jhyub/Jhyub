@@ -8,7 +8,6 @@ Member of Net Impact Seoul
 
 # Languages
 Console (mostly java wrappers) : Go  
-Web : Ruby (Rails)  
 Everything Else : Kotlin (Java)  
   
 <a href="https://sourcerer.io/jhseo1107"><img src="https://img.shields.io/badge/Java-273%20commits-orange.svg" alt=""></a>  
