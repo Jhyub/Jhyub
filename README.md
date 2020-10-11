@@ -22,4 +22,6 @@ Everything Else : Kotlin (Java)
 
 # Accounts
 - [BOJ](https://acmicpc.net/user/jhseo1107)  
+- [SolvedAC](https://solved.ac/profile/jhseo1107)
+- [CodeForces](https://codeforces.com/profile/jhseo1107)
 - [Github](https://github.com/jhseo1107)  
