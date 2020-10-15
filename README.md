@@ -16,6 +16,7 @@ Everything Else : Kotlin (Java)
 <a href="https://sourcerer.io/jhseo1107"><img src="https://img.shields.io/badge/Java-273%20commits-orange.svg" alt=""></a>  
 <a href="https://sourcerer.io/jhseo1107"><img src="https://img.shields.io/badge/Kotlin-119%20commits-green.svg" alt=""></a>  
 <a href="https://sourcerer.io/jhseo1107"><img src="https://img.shields.io/badge/Go-3%20commits-blue.svg" alt=""></a>  
+<a href="https://sourcerer.io/jhseo1107"><img src="https://img.shields.io/badge/Ruby-1%20commits-red.svg" alt=""></a>  
 
 # Fancy Stuff
 SolvedAC  
