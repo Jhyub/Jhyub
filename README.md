@@ -2,10 +2,11 @@
 Middle school student learning at Yangjin Middle School in Seoul  
 Member of Net Impact Seoul  
 Creator of the Ulleung Programming Language  
-[Visit my website!](https://jhseo1107.dev/)
+[Visit my website!](https://jhseo.dev/)
 
 # Main Projects
 - [Ulleung](http://울릉.메인.한국/)
+- [Mjolnir](https://github.com/mjolnir-ktor/)
 
 # Languages
 Console (mostly java wrappers) : Go  
