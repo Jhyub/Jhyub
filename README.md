@@ -1,4 +1,4 @@
-# jhseo1107
+# Jhyub
 Middle school student learning at Yangjin Middle School in Seoul  
 Member of Net Impact Seoul  
 Creator of the Ulleung Programming Language  
@@ -26,4 +26,4 @@ SolvedAC
 - [BOJ](https://acmicpc.net/user/jhseo1107)  
 - [SolvedAC](https://solved.ac/profile/jhseo1107)
 - [CodeForces](https://codeforces.com/profile/jhseo1107)
-- [Github](https://github.com/jhseo1107)  
+- [Github](https://github.com/jhyub)  
