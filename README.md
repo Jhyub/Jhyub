@@ -5,7 +5,6 @@ Member of Net Impact Seoul
 
 # Main Projects
 - [Ulleung](http://울릉.메인.한국/)
-- [Mjolnir](https://github.com/mjolnir-ktor/)
 
 # Languages
 Console (mostly java wrappers) : Go  
