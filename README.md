@@ -3,9 +3,6 @@ Middle school student learning at Yangjin Middle School in Seoul
 Member of Net Impact Seoul  
 [Visit my website!](https://jhseo.dev/)
 
-# Main Projects
-- [Ulleung](http://울릉.메인.한국/)
-
 # Languages
 Kotlin >>> Go = C++ = Ruby > Python > JS >>> Java
 
