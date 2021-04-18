@@ -12,7 +12,8 @@ SolvedAC
 
 
 # Accounts
+- [AUR](https://aur.archlinux.org/account/Jhyub/)  
 - [BOJ](https://acmicpc.net/user/jhseo1107)  
-- [SolvedAC](https://solved.ac/profile/jhseo1107)
-- [CodeForces](https://codeforces.com/profile/jhseo1107)
+- [CodeForces](https://codeforces.com/profile/jhseo1107)  
 - [Github](https://github.com/jhyub)  
+- [SolvedAC](https://solved.ac/profile/jhseo1107)
