@@ -1,7 +1,8 @@
 # Jhyub
-Middle school student learning at Yangjin Middle School in Seoul  
-Member of Net Impact Seoul  
 [Visit my website!](https://jhseo.dev/)
+ * 2017 ~ 2020 : Korea University Gifted Education Center
+ * 2019 ~ : Yangjin Middle School
+ * 2020 ~ : Net Impact Seoul
 
 # Languages
 Kotlin >>> Go = C++ = Ruby > Python > JS >>> Java
