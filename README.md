@@ -5,7 +5,7 @@
  * 2020 ~ : Net Impact Seoul
 
 # Languages
-Kotlin >>> Go = C++ = Ruby > Python > JS >>> Java
+Kotlin, Go, C++, Python, etc.
 
 # Accounts
 - [AUR](https://aur.archlinux.org/account/Jhyub/)  
