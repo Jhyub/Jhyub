@@ -12,7 +12,7 @@
    * SK Hynix DDR4 8G
    * Intel Device 5906
 ## Languages
- [![.](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhyub&layout=compact&theme=tokyonight)](http://bit.ly/Dislogicator)
+ [![.](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhyub&layout=compact&theme=tokyonight)]
 
 ## Accounts
 - [AUR](https://aur.archlinux.org/account/Jhyub/)  
