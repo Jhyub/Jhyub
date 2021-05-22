@@ -12,7 +12,14 @@
    * SK Hynix DDR4 8G
    * Intel Device 5906
 ## Languages
-Kotlin, Go, C++, Python, etc.
+ <a href="http://bit.ly/Dislogicator">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhyub&theme=tokyonight&title_color=fff&text_color=fff&show_icons=true&count_private=true&layout=compact&langs_count=4&count_private=true&hide_border=true" />
+</a> 
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## Accounts
 - [AUR](https://aur.archlinux.org/account/Jhyub/)  
